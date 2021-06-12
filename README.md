@@ -2,7 +2,7 @@
 
 𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
 
-💻 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒕 𝒁𝒆𝒎𝒂 ⭐
+💻 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑰𝑰 𝒂𝒕 𝑺𝒐𝒇𝒕𝒑𝒍𝒂𝒏
 
 ✍️ 𝑨𝒍𝒘𝒂𝒚𝒔 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒏𝒆𝒘 𝒕𝒉𝒊𝒏𝒈𝒔
 
@@ -38,3 +38,6 @@
 
 | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="aws" height="24">](https://aws.amazon.com/)
 |---|
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=judsonjuniorr&show_icons=true&theme=tokyonight)
