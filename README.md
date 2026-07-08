@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <h1>Hi, I'm Judson</h1>
-  <h3>Senior Software Engineer @ Softplan</h3>
+  <h3>Senior Software Engineer</h3>
 
   <p>
     <em>Building scalable, maintainable full-stack applications with a focus on clean architecture and user-centric design.</em>
@@ -28,8 +28,6 @@
 ### 👨‍💻 About Me
 
 With over **10 years of experience** in software development, I started with HTML/CSS and PHP, and I am now focused on **JavaScript/TypeScript**, with occasional Python and exploratory C++/C# work, and I have evolved into a Senior Full-Stack Engineer.
-
-Currently, I work at **Softplan** focusing on engineering quality and process standardization, developing complex frontend architectures using **Micro-frontends with React**. My passion lies in designing complete solutions—from database architecture to intuitive user interfaces.
 
 * 🎓 **Post-Graduation:** FullStack Development @ Rocketseat
 * 🎓 **Degree:** Bachelor in Analysis and Systems Development
